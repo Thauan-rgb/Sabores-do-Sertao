@@ -26,10 +26,9 @@ O painel usa o CSV local automaticamente; também é possível enviar o arquivo 
 
 ## Print do painel
 
-![Painel](print_painel.png)
+<img width="1917" height="956" alt="imagem" src="https://github.com/user-attachments/assets/3d863e1c-dab2-419c-8a7c-3679cb4aa1fc" />
 
-> Substitua `print_painel.png` por um print do painel rodando.
 
 ## Autores
 
-Dupla: _preencher nomes_
+Dupla: Thauan Bezerra e Arthur Vinicius
